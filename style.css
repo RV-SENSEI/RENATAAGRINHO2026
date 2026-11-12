@@ -1,1 +1,33 @@
+:root{
+    --corprimaria:#183c63;
+    --cor-secundaria:#3782d2;
+    --cor-texti:#151428;
+    --cor--contraste:#f3eef7;
+    --cor-botao:#f9f9f9;
+
+    --fonte-texto:'Seogoe UI', sans-serif;
+
+}
+
+*{
+    transition:background-color 0.8 ease;
+}
+
+.tema-escuro {
+    --cor-primaria:#A6CEFE;
+    --cor-secunaria:#98caff;
+    --cor-fundo:#0f172a;
+    --cor-texto:#ffffff;
+    --cor-contraste:#1e293b;
+    --cor-botao:#151428;
+
+}
+
+.tema-escuro p {
+
+
+color:var(--cor-texto);
+
+
+}
 
